@@ -1,0 +1,12 @@
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\bin\Debug\net5.0\Blog.Core.deps.json
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\bin\Debug\net5.0\Blog.Core.dll
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\bin\Debug\net5.0\Blog.Core.pdb
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\Blog.Core.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\Blog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\Blog.Core.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\Blog.Core.AssemblyInfo.cs
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\Blog.Core.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\Blog.Core.dll
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\refint\Blog.Core.dll
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\Blog.Core.pdb
+C:\Users\musta\Desktop\Dersler\PersonalBlog\Blog.Core\obj\Debug\net5.0\ref\Blog.Core.dll
